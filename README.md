@@ -13,10 +13,13 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
   # Data Preprocessing
 
 * What variable(s) are considered the target(s) for your model?
+      - Based on the data the target variable is the "IS_SUCCESSFUL" column.
 
 * What variable(s) are considered to be the features for your model?
-
+      - Based on the data the target variable is the "IS_SUCCESSFUL" column.
+      
 * What variable(s) are neither targets nor features, and should be removed from the input data?
+      - The variable that are neither targets nor featues are the EIN and NAME columns, these were removed. These variable will not increase the accuracy of the model.
 
 # Compiling, Training, and Evaluating the Model
 
