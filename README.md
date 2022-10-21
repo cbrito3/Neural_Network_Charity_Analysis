@@ -9,7 +9,7 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
       3: Optimize the Model
 
 
-# Results: Using bulleted lists and images to support your answers, address the following questions.
+# Results: 
   # Data Preprocessing
 
 * What variable(s) are considered the target(s) for your model?
