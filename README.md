@@ -42,5 +42,5 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
 
 # Summary: 
 
-     - After attempts to modify the data to target the model performance of 75% and using relu and sigmoid activtions, the accuracy was under 75%. One thing to consider next time would be to consider activating functions such as adding more layers and/or dropping other variables. 
+ After attempts to modify the data to target the model performance of 75% and using relu and sigmoid activtions, the accuracy was under 75%. One thing to consider next time would be to consider activating functions such as adding more layers and/or dropping other variables. 
       
