@@ -30,7 +30,10 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
      - In the model below, we can see that layer 1 started with 100 neurons with a relu activation. For layer 2, it dropped to 50 neurons and continued with the relu activation. For the final layer, layer 3, it started with 20 neaurons, this seemed to be the better and more accurate. 
-
+     
+     ![Pictures/pic%201](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/pic%201.png)
+     
+  
 * Were you able to achieve the target model performance?
       
      - No, the original target for the model was 75%; however, the model for this is under 75%. 
@@ -39,6 +42,11 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
 * What steps did you take to try and increase model performance?
 
      - The steps that were taken to increase model performance were to drop two variables: STATUS and SPECIAL_CONSIDERATIONS.However, these changes did not affect too much the accuracy. 
+     
+      ![Pictures/pic%202](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/Pic%202.png)
+     
+     
+      ![Pictures/pic%203](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/Pic%203.png)
 
 # Summary: 
 
