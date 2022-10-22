@@ -18,29 +18,29 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
 
 * What variable(s) are considered to be the features for your model?
      
-Based on the data the target variable is the "IS_SUCCESSFUL" column.
+      - Based on the data the target variable is the "IS_SUCCESSFUL" column.
       
 * What variable(s) are neither targets nor features, and should be removed from the input data?
      
-The variables that are neither targets nor featues are the EIN and NAME columns, these were removed. These variable will not increase the accuracy of the model. 
+      - The variables that are neither targets nor featues are the EIN and NAME columns, these were removed. These variable will not increase the accuracy of the model. 
       
 
 # Compiling, Training, and Evaluating the Model
 
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-In the model below, we can see that layer 1 started with 100 neurons with a relu activation. For layer 2, it dropped to 50 neurons and continued with the relu activation. For the final layer, layer 3, it started with 20 neaurons, this seemed to be the better and more accurate. 
+      - In the model below, we can see that layer 1 started with 100 neurons with a relu activation. For layer 2, it dropped to 50 neurons and continued with the relu activation. For the final layer, layer 3, it started with 20 neaurons, this seemed to be the better and more accurate. 
 
 * Were you able to achieve the target model performance?
       
-No, the original target for the model was 75%; however, the model for this is under 75%. 
+      - No, the original target for the model was 75%; however, the model for this is under 75%. 
 
 
 * What steps did you take to try and increase model performance?
 
-The steps that were taken to increase model performance were to drop two variables: STATUS and SPECIAL_CONSIDERATIONS.However, these changes did not affect too much the accuracy. 
+      - The steps that were taken to increase model performance were to drop two variables: STATUS and SPECIAL_CONSIDERATIONS.However, these changes did not affect too much the accuracy. 
 
 # Summary: 
 
-After attempts to modify the data to target the model performance of 75% and using relu and sigmoid activtions, the accuracy was under 75%. One thing to consider next time would be to consider activating functions such as adding more layers and/or dropping other variables. 
+      - After attempts to modify the data to target the model performance of 75% and using relu and sigmoid activtions, the accuracy was under 75%. One thing to consider next time would be to consider activating functions such as adding more layers and/or dropping other variables. 
       
