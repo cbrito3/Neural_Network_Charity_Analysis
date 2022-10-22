@@ -43,10 +43,10 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
 
      - The steps that were taken to increase model performance were to drop two variables: STATUS and SPECIAL_CONSIDERATIONS.However, these changes did not affect too much the accuracy. 
      
-      ![Pictures/pic%202](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/Pic%202.png)
+   ![Pictures/Pic%202](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/Pic%202.png)
      
      
-      ![Pictures/pic%203](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/Pic%203.png)
+   ![Pictures/Pic%203](https://github.com/cbrito3/Neural_Network_Charity_Analysis/blob/main/Pictures/Pic%203.png)
 
 # Summary: 
 
