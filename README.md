@@ -36,7 +36,7 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
   
 * Were you able to achieve the target model performance?
       
-     - No, the original target for the model was 75%; however, the model for this is under 75%. 
+     - No, the original target for the model is 75%; however, the model for this came as .726% . 
 
 
 * What steps did you take to try and increase model performance?
@@ -50,5 +50,5 @@ The purpose of this analysis is to help Beks' foundation to predeict where to ma
 
 # Summary: 
 
- After attempts to modify the data to target the model performance of 75% and using relu and sigmoid activtions, the accuracy was under 75%. One thing to consider next time would be to consider activating functions such as adding more layers and/or dropping other variables. 
+ After attempts to modify the data to target the model performance of 75% and using relu and sigmoid activations, the accuracy was under 75%. One thing to consider next time would be to consider activating functions such as adding more layers and/or dropping other variables. 
       
